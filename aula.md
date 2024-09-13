@@ -43,10 +43,12 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
     maior > 
     menor/igual <= 
     maior/igual >=
+- [x] Spread Operator: ...
 
 ### Arrays:
 
 - [x] Uma lista que contém qualquer tipo de dado.
+- [x] Métodos de array: push, find, forEach, filter: HOF (Higher Order Functions)
 
 ### Objetos:
 
