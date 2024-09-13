@@ -8,18 +8,18 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 ## Peças de uma linguagem
 
 - [x] Comentários
-- Declaração de variáveis (const, let)
-- Operadores (atribuição, concatenação, matemáticos, lógicos)
-- Tipos de dados (string, number, boolean)
-- Estrutura de dados (functions, object, array)
-- Controle de fluxo (if/else)
-- Estrutura de repetição (for, while)
+- [x] Declaração de variáveis (const, let)
+- [x] Operadores (atribuição, concatenação, matemáticos, lógicos)
+- [x] Tipos de dados (string, number, boolean)
+- [x] Estrutura de dados (functions, object, array)
+- [] Controle de fluxo (if/else)
+- [] Estrutura de repetição (for, while)
 
 ## Fases da resolução de um problema
 
-- Coletar os dados
-- Processar os dados (manipular, alterar ...)
-- Apresentar os dados
+- [] Coletar os dados
+- [] Processar os dados (manipular, alterar ...)
+- [] Apresentar os dados
 
 ## Escopos e variáveis
 
@@ -63,3 +63,12 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 # Condicionais
 
 - [x] switch
+
+# Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca inquirer para criar prompts interativos
+
+## Programação assíncrona e promises
+
+- [x] uso de funções assíncronas (async/await)
